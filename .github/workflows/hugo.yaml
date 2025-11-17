@@ -80,7 +80,7 @@ jobs:
       - name: Build the site
         run: |
           hugo \
-            --source arora-labs
+            --source arora-labs \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
