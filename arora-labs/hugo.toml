@@ -11,3 +11,7 @@ info = ['A Toronto-based Software Comapny']
 colorScheme='dark'
 hideColorSchemeToggle = true
 avatarURL = 'logo.jpg'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
