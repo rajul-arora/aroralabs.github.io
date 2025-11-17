@@ -1,0 +1,13 @@
+baseURL = 'https://aroralabs.ca'
+languageCode = 'en-us'
+title = 'Arora Labs Inc.'
+theme = 'hugo-coder'
+
+[params]
+author = 'Arora Labs Inc.'
+description = 'Arora Labs Inc. is a software development company based in Toronto, Canada.'
+info = ['A Toronto-based Software Comapny']
+
+colorScheme='dark'
+hideColorSchemeToggle = true
+avatarURL = 'logo.jpg'
